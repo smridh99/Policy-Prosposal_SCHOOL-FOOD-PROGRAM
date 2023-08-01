@@ -1,2 +1,2 @@
-# Policy-Prosposal_SCHOOL-FOOD-PROGRAM
+# Policy Prosposal
 Policy Proposal - A defensible plan against food insecurity by targeting academic institutions
