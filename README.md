@@ -15,6 +15,6 @@ Comparisions with USA, Italy and Brazils current food programmes.
 
 
 
-Here is the <a href="https://github.com/smridh99/Policy-Prosposal_SCHOOL-FOOD-PROGRAM/blob/main/Policy_Proposal">full policy proposal </a> along with the citations
+Here is the <a href="https://github.com/smridh99/Policy-Prosposal_SCHOOL-FOOD-PROGRAM/blob/main/Policy_Proposal.pdf">full policy proposal </a> along with the citations
 
 Resources: <a href="https://lib.uwaterloo.ca/web/">University of Waterloo Library</a> & <a href="https://uwaterloo.ca/public-health-sciences/profiles/sharon-kirkpatrick">Dr Sharon Kirkpatrick (Registered Dietitian, PhD Nutritional Sciences) </a>
